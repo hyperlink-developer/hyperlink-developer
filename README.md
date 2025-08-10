@@ -1,5 +1,5 @@
 <!-- Typing Animation Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Yagnesh+Bhanani;Backend+Web+Developer;Founder+of+Hyperlink+Developers;PHP+%7C+Laravel+%7C+MySQL+%7C+MongoDB;Building+Secure+%26+Scalable+Apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Yagnesh+Bhanani;Backend+Web+Developer;PHP+%7C+Laravel+%7C+MySQL+%7C+MongoDB;Building+Secure+%26+Scalable+Apps)](https://git.io/typing-svg)
 
 ---
 
