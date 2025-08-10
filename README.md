@@ -8,7 +8,7 @@
 ---
 
 <h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Yagnesh</h1>
-<h3 align="center">🚀 Backend Developer | 💻 PHP | Laravel | MySQL | MongoDB </h3>
+<h3 align="center">🚀 Backend Developer | PHP | Laravel | MySQL | MongoDB </h3>
 
 ---
 
