@@ -1,10 +1,14 @@
 <!-- Typing Animation Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Yagnesh+Bhanani;Backend+Web+Developer;PHP+%7C+Laravel+%7C+MySQL+%7C+MongoDB;Building+Secure+%26+Scalable+Apps)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Yagnesh+Bhanani;Backend+Web+Developer;PHP+%7C+Laravel+%7C+MySQL+%7C+MongoDB;Building+Secure+%26+Scalable+Apps" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
 <h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Yagnesh</h1>
-<h3 align="center">🚀 Laravel & Backend Developer | 💻 PHP Developer </h3>
+<h3 align="center">🚀 Backend Developer | 💻 PHP | Laravel | MySQL | MongoDB </h3>
 
 ---
 
